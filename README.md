@@ -1,1 +1,1 @@
-# check-domain-tersedia---tidak
+# check domain tersedia atau tidak
